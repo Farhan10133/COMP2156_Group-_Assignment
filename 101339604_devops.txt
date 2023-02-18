@@ -1,2 +1,3 @@
-This file contain information about COMP 2156
-DevOps course.
+This file contain information about COMP 2156 DevOps course
+Software development and IT operations are combined in a set of processes called DevOps, which enables businesses to provide applications and services more quickly, more reliably, and with higher-quality code.
+The goal of DevOps is to streamline the software development and deployment process, reduce errors and risks, and improve collaboration and communication between development and operations teams.
