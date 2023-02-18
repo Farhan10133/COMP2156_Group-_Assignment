@@ -1,2 +1,4 @@
-This file will contain information about George Brown
-college
+This file will contain information about George Brown college
+George Brown College is a public college located in Toronto, Ontario, Canada.
+It was given the name George Brown in honour of the Canadian writer, statesman, and Father of Confederation who was born in Scotland and was instrumental in the formation of the Canadian Confederation.
+When the college was founded in 1967 as the "George Brown College of Applied Arts and Technology," it already had the Provincial Institute of Crafts, Metropolitan Toronto School of Nursing, and Ontario College of Pharmacy.
