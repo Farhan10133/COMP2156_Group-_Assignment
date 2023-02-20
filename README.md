@@ -1,5 +1,5 @@
 # COMP 2156 - Group Assignment 31
-## This branche belongs to the group member Renan Peterson
+## This branch belongs to the group member Renan Peterson
 ## Group Members:
 #### 1. Renan Peterson Dias Batista, ID: 101369488
 #### 2. Farhan Islam, ID: 101339604
