@@ -1,3 +1,6 @@
 # COMP2156 - Group-Assignment
-## This branch belongs to the group member Renan Peterson Dias Batista
-### Student ID: 101369488
+## Group Members:
+### 1.Renan Peterson Dias Batista 
+### 2.Gawyne Emslie 
+### 3.Farhan Islam 
+### 4.Samiul Islam 
